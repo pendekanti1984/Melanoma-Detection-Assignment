@@ -27,16 +27,25 @@ Vascular lesion
 ## Libraries Used:
 
 pathlib
+
 tensorflow as tf
+
 matplotlib.pyplot as plt
+
 numpy as np
+
 pandas as pd
+
 PIL
 
 ## Conclusion:
 
 Overfitting has solved by using Image augmentation
+
 Augmentor with samples (1000)
+
 Underfitting and overfitting has been solved
+
 Training and Validation accuracy are close - 0.87
+
 Rectifying the class imbalance got rid of underfitting
