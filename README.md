@@ -33,7 +33,7 @@ numpy as np
 pandas as pd
 PIL
 
-##Conclusion:
+## Conclusion:
 
 Overfitting has solved by using Image augmentation
 Augmentor with samples (1000)
